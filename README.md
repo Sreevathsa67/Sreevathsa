@@ -1,4 +1,4 @@
-# 💫 About Me:
+#About Me:
 🔭 I’m currently working on FreshTrack AI<br><br>🌱 I’m currently learning AWS<br><br>💬 Ask me about Webdev,ML,Cutting edge tech, content creation and more<br><br>📫 How to reach me sreevathsarnms6@gmail.com
 
 
